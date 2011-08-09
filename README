@@ -1,0 +1,19 @@
+Introduction to Markdown
+==========================
+
+History
+--------------------------
+Once upon a time, there is a boy named Brook. He can speak 3 English words, when he was 1 year old.
+It's monkey, apple, and banana.
+
+He is a genius! But his father told him:
+
+> The turtle wins the race.
+
+Syntax
+----------------------------
+    public static void main HelloWorld(String[] args){
+        System.out.println("Hello World!");
+    }
+
+Do I use 'println()'?
